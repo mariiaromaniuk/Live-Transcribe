@@ -4,7 +4,8 @@ and hard-of-hearing, using just your web browser. Using Google's automatic speec
 
 Try it yourself! Click and speak => [**Live Demo**](https://mariiaromaniuk.github.io/Live-Transcribe/)  
 
-[![](Live_Transcribe.png)](https://youtu.be/eiE9_dW3jCA) 
+[![](Live_Transcribe.gif)](https://youtu.be/eiE9_dW3jCA) 
+![](transcribe.gif)  
 
 ## Future Development
 - enable user to type responses on the screen, 
